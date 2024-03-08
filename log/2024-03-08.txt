@@ -1,0 +1,20 @@
+Packages I may want to use ...
+
+<speech recognition> will be perfect for detecting and digitizing speech from
+the user's microphone. In addition, the library permits external engines and
+APIs: OpenAI whisper, Tensorflow, IBM Speech to Text.
+
+<Python Auto GUI> enables control of the mouse and keyboard via scripts.
+
+<Hugging Face> contains transformers, datasets, tokenizers, and training for
+NLP type tasks. The system will need to learn how to understand the authorized
+user, etc.
+
+<OpenAI Whisper> works offline (that's a huge plus!) and can perform
+multilingual speech recognition, speech translation, and language 
+identification if needed. The program is trained on a large corpus of diverse
+audio.
+
+My plan is to begin this project using such packages: standing on the shoulders
+of giants. Then, perhaps once I have learned more about the innerworkings of
+such technology, I can implement these abilities myself.
